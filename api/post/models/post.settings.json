@@ -49,8 +49,8 @@
       "dominant": true
     },
     "categories": {
-      "collection": "category",
       "via": "posts",
+      "collection": "category",
       "dominant": true
     },
     "author": {
