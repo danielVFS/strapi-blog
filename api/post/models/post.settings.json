@@ -27,7 +27,7 @@
         "images"
       ],
       "plugin": "upload",
-      "required": false
+      "required": true
     },
     "excerpt": {
       "type": "text",
@@ -49,8 +49,8 @@
       "dominant": true
     },
     "categories": {
-      "via": "posts",
       "collection": "category",
+      "via": "posts",
       "dominant": true
     },
     "author": {
