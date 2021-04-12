@@ -8,7 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "post-install": "cd plugins/wysiwyg && yarn"
+    "postinstall": "cd plugins/wysiwyg && yarn"
   },
   "devDependencies": {},
   "dependencies": {
